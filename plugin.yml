@@ -1,0 +1,9 @@
+name: PermissionWarp
+version: 1.0.0
+author: Dark
+main: Dark\Warp\Main
+api: 3.0.0
+
+commands:
+  warp:
+    description: "Warp Command"
