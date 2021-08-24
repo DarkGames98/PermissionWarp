@@ -1,1 +1,9 @@
-
+usage: "**Usage** /warp <(warp_name), list, addwarp, deletewarp>"
+cant_warp: "**Error** You cant warp to {name}"
+warp_not_found: "**Error** Warp name {name} not found"
+warp_exists: "**Error** That warp name already exists"
+teleported: "**Success** Warped to {name}"
+warp_created: "**Success** Warp named {name} has been created"
+warp_deleted: "**Success** Warp named {name} has been removed"
+list_header: "Warp Lists:"
+list_context: "\n - {names}"
